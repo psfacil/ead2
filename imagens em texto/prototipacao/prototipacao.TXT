@@ -1,0 +1,540 @@
+Para conhecer algumas das possibilidades do Makey Makey, assista ao vÍdeo a
+seguir. Usando a sua criatividade, você pode reproduzir as opções do vÍdeo e criar
+suas próprias utilizações para esta tecnologia.
+Indicação de vÍdeo: Makey Makey:
+
+O Makey Makey é uma tecnologia criada pelo Media Lab, do MIT, um dos mais
+importantes e inovadores laboratórios de tecnologia do mundo. O objetivo do
+desenvolvimento desta tecnologia foi simplificar e tornar viável a todas as pessoas
+a sua inserção no desenvolvimento de soluções digitais, de baixo custo, usando
+materiais simples, que encontramos na casa de todas as pessoas.
+Falando agora do Leitor de Ondas Cerebrais, esta é uma tecnologia que tem por
+objetivo utilizar o poder de concentração e relaxamento para controlar as
+frequências emitidas pelas ondas cerebrais, mapeando essas frequências e
+utilizando esse mapeamento para ativar e controlar as mais diversas aplicações e
+equipamentos, desde um software na tela de um computador, até um braço
+robótico em um projeto de próteses para pessoas amputadas.
+O vÍdeo a seguir mostra um Quadricóptero controlado por um Leitor de Ondas
+Cerebrais:
+
+3. Impressoras 3D - a revolução do mundo estático para o mundo
+dinâmico
+A história da impressão 3D não é tão nova. Segundo a revista Superinteressante
+em sua edição de janeiro de 2013, a primeira teria sido desenvolvida em 1984 por
+Charles Hull. Inicialmente, essas impressoras eram complicadas de construir e
+extremamente caras (custavam centenas de milhares de dólares), além de sua
+precisão de sua impressão não ser muito alta.
+O custo deste tipo de impressora só começou a cair após o ano de 2012, quando
+este tipo de tecnologia passou a ser mais discutida e seu uso foi popularizado.
+Hoje, seu custo gira em torno de US$ 400,00 nos Estados Unidos e cerca de
+R$ 3.500,00 no Brasil, em suas versões compactas. Existem até mesmo projetos
+opensource de impressoras 3D, alguns deles são brasileiros, como é o caso dos
+projetos desenvolvidos pelo grupo Garoa Hacker Clube de São Paulo.
+A Figura a seguir apresenta o modelo de impressora 3D utilizada em projetos de
+prototipagem 3D
+©
+a
+T '
+q"'· """a ' "'"'	_ , ~ ^á=
+'-y=\!
+. m
+~
+" °"°"'a' ii,:!.i} " t3 "
+'"'.""'""""""
+'·'=""
+zf'"	mwAwm
+I!'
+
+a) Modelagem 3D:
+O primeiro passo é a construção digital do modelo a ser impresso. Vamos pegar
+como exemplo o desenho do foguete do Spacecup - ele deve ser realizado em um
+programa de modelagem e desenho 3D, como o SoIidWorks. Esse modelo é
+exportado para o software da impressora 3D, que o converte, dividindo-o em
+milhares de camadas, cada uma com espessura entre 0,1 mm e 0,4 mm - quanto
+menor a espessura mais precisa é a impressão.
+A Figura 10 mostra um desenho modelado no Solidworks, já exportado para o
+software da impressora 3D, antes de ser impresso.
+;m
+E-a áT ~
+
+Fonte: FIAP.
+b) Material:
+No lugar da tinta, tão comum nas impressoras tradicionais, este tipo de impressora
+3D utiliza um tipo especial de filamento plástico conhecido como ABS (Acrilonitrila
+Butadieno Estireno). Embora seja um material muito comum — sendo o utilizado em
+nosso Maker Lab - existem outros, como o PLA (ácido poliático).
+A impressora possui uma superficie plana e cheia de furinhos, onde o material é
+depositado em suas primeiras camadas de impressão. O material (ABS) é
+aquecido pela impressora e depositado na superficie plana por um bico extrusor,
+que aplica uma fina camada sobre essa superficie, para criar uma base de
+
+sustentação para o restante da impressão. Esse material endurece rapidamente e
+as outras camadas de material podem ser depositadas na sequência. A cada nova
+camada depositada de material, o software da impressora atualiza a imagem do
+objeto impresso, permitindo que a pessoa que controla a impressão possa ver o
+estágio da impressão a cada momento e o tempo estimado para a finalização do
+processo.
+A Figura 11 mostra a criação da base de sustentação das camadas de impressão.
+~,M7 ¥Z""",u , .	, , ~ E
+S,
+k
+b". y	m.	m
+m'·::x",ix:... .k:::'Q'F
+44"
+%
+, T
+. ,
+> "0
+'^"
+"n.	\ÓY 4
+
+IMPRIMA ÓRGÃOS
+Anthony Atala, da Universidade Wake Forest, na Carolina do Norte, recriou em
+laboratório partes da bexiga de sete voluntários portadores de uma doença grave.
+Células de suas bexigas foram retiradas e colocadas em um molde biodegradável
+desenvolvido em uma impressora 3D. Estas células foram reimplantadas com
+sucesso nos pacientes. Outras iniciativas, como a impressão de partes de rins e
+figado estão sendo realizadas.
+No futuro, poderá ser possÍvel resolver o problema das filas de transplantes, uma
+vez que, provavelmente, será possÍvel imprimir um órgão com as próprias células
+da pessoa, eliminando assim o risco de rejeição pelo corpo.
+Essas são algumas das possibilidades de utilização das impressoras 3D, que estão
+revolucionando muitas áreas, tornando mais interessante o mercado para
+profissionais que conheçam e dominem essa tecnologia, criando um novo campo
+de atuação profissional.
+
+Fonte: FIAP.
+c) o objeto:
+O processo de deposição das camadas de material se repete até o objeto ficar
+pronto. Esse processo pode demorar de poucos minutos até muitas horas
+dependendo de sua complexidade. Outro ponto importante a ser considerado é o
+das impressões de objetos maiores que o volume total disponível. Nestes casos, o
+objeto deve ser desenhado em partes, incluindo as superficies de encaixe. Desta
+forma, pode-se otimizar o processo de impressão, ganhar tempo e economizar
+material.
+O foguete da figura 12, por exemplo, é impresso em quatro partes que são
+encaixadas ao final da impressão. Este modelo mede cerca de 30 cm de altura e
+pesa 30 gramas aproximadamente. Em uma precisão de 0,35 mm leva cerca de 90
+minutos para ser impresso. Após a impressão, o objeto deve passar por uma fase
+
+de polimento e remoção das rebarbas e imperfeições, podendo depois ser pintado
+ou envelopado.
+A Figura 12 mostra o objeto finalizado, após a conclusão da etapa de impressão
+3D.
+
+Dimensão máxima dos objetos para impressão nas impressoras do Maker Lab:
+· Altura - 13 cm
+· Largura - 13 cm
+· Profundidade - 13 cm
+A Figura 13 mostra um foguete impresso em impressora 3D.
+
+Além das finalidades acadêmicas, as impressoras 3D são cada vez mais utilizadas
+para finalidades industriais, tecnológicas e até mesmo para a área de saúde.
+IMPRIMA METAL
+Existem alguns modelos de impressoras que são capazes de sintetizar metal em
+pó e imprimir peças metálicas. Com isso, já é possÍvel imprimir peças a serem
+usadas nas indústrias automobilística e aeronáutica, em embarcações e para
+desenvolver ferramentas de precisão.
+Podemos citar um exemplo prático: o apresentador americano Jay Leno, do
+programa "The Tonight Show", é um apaixonado por carros. Segundo a revista
+Superinteressante, ele possui um carro do modelo Stanley Steamer 1909, um
+calhambeque movido a vapor. Como ele não conseguia encontrar algumas peças
+para finalizar a restauração do carro, mandou "imprimi-las".
+Em 2011, o Urbee foi lançado como o "primeiro automóvel impresso em 3D" -
+embora só a carroceria tenha sido feita assim. O custo de impressão das peças
+ainda é o maior obstáculo à sua popularização, mas esse fato vem mudando com o
+barateamento da tecnologia de impressão 3D.
+O vÍdeo abaixo mostra uma impressora 3D que imprime metal.
+Indicação de vÍdeo: https://www.Youtube.com/watch?v=DAQm5P5p4zw
+
+IMPRIMA SUA CASA
+A escala de tamanho das impressoras 3D também está aumentando a cada dia.
+Esse fato abriu um novo campo e uma nova possibilidade - de impressão de
+paredes e casas por impressoras 3D. A revista Superinteressante, em sua edição
+de janeiro de 2013, apresenta um caso bem interessante, como descrito a seguir.
+Em 2007, o italiano Enrico Dini criou uma megaimpressora 3D que usa areia e uma
+cola à base de magnésio para fazer casas. Não há nada de concreto, aço ou metal
+na obra. A D-Shape monta estruturas de até 6 x 6 metros, e a construção demora
+até quatro vezes menos tempo do que pelo método tradicional.
+Outras nações e empresas também estão entrando no mercado de impressão de
+casas. Um dos exemplos mais interessantes nesta área é o de uma empresa
+chinesa que, em 2014, imprimiu 10 casas em 24 horas. Um vÍdeo mostrando como
+essas impressões foram realizadas pode ser visto a seguir.
+Indicação de vÍdeo:
+
+Foi visto o quanto é importante e impactante a tecnologia das impressoras 3D.
+Além desta tecnologia, pode-se afirmar que o uso de fresadoras de precisão
+também é um marco tecnológico. Este tipo de equipamento permite a construção
+de peças com grande precisão, a partir de blocos sólidos dos mais diversos
+materiais.
+A Figura 14 mostra o modelo de Fresadora de Precisão que é usada em espaços
+de prototipagem e nos Maker Labs.
+0
+e- _ m e
+
+""
+-
+jWãt"	· '
+1
+7
+mÀ " _
+" m
+—:;F"
+" 0
+% _
+0
+m
+W
+Figura 14 - Fresadora de precisão
+
+A fresadora também pode ser utilizada para outras finalidades, como a construção
+e a furação de placas de circuito impresso, utilizada na eletrônica e na engenharia.
+Essa função torna possÍvel substituir o processo tradicional de corrosão das placas
+de circuito com percloreto de ferro, que é um material corrosivo e perigoso.
+O vÍdeo a seguir mostra uma fresadora de precisão sendo utilizada na confecção
+de placas de circuito impresso.
+Indicação de vÍdeo: https://www.youtube.com/watch?v=4f3N9v9s1 EE
+Para construir as placas, a fresadora deve ser calibrada para retirar da placa
+somente a camada de cobre que fica sobre uma superficie mais grossa de fenolite
+ou de Fibra de Vidro. Para comparar a confecção da Fresadora com o processo
+tradicional, assista ao vÍdeo a seguir, que mostra como uma placa de circuito é
+corroída com o uso de percloreto de ferro.
+Indicação de vÍdeo: https://www.youtube.com/watch?v=q8|udS A3xO
+Nos projetos de prototipagem, a fresadora de precisão pode ser utilizada para
+construir bases, suportes, estruturas e peças para robôs, drones, jogos,
+personagens de games, placas de circuitos eletrônicos, entre outras possibilidades.
+As fresadoras de precisão possuem inúmeras aplicações na indústria. Uma das
+mais frequentes utilizações é na construção de moldes e protótipos. É possÍvel
+criar peças e sólidos que remetam ao produto real, de forma que seja possÍvel
+prever, com grande precisão, o resultado final de sua construção.
+
+5 ortadoras a laser - precisão em todos os cortes
+Assim como as impressoras 3D e as fresadoras de precisão, as cortadoras a laser
+constituem o estado da arte dos equipamentos de prototipagem modernos. As
+cortadoras a laser possibilitam trabalhar com os mais diversos materiais, como
+MDF, Plástico, Acrílico, Resinas Especiais, PVC e outros materiais que podem ser
+cortados pelo feixe de laser que elas possuem.
+Para corte de metais, existem cortadoras a laser especificas, com potência mais
+elevada e custo e consumo de energia maiores que os modelos mais tradicionais.
+A cortadora a laser é igualmente uma máquina de comando numérico e que direciona com
+muita precisão um feixe de laser de CO2 sobre o material a ser cortado ou gravado,
+movimentando-se sempre em dois eixos (X e y). A potência do laser (medida em Watts)
+define a espessura dos materiais a serem cortados e está diretamente relacionada com a
+velocidade com que a máquina é capaz de operar. (NEVES, 2013, p. 29)
+A Figura abaixo mostra um modelo de cortadora a laser que normalmente é
+utilizado em FABLABS e Maker Labs, onde é possÍvel desenvolver seus projetos
+de prototipagem.
+"—::'
+R1503Q W7"=""'==4	h
+~h
+T?
+V b
+Figura 19 - Cortadora a laser
+
+O processo de trabalho da cortadora a laser é muito parecido com o das
+impressoras e fresadoras. Um desenho deve ser construido em um software que
+seu formato seja exportado para a extensão STL. Essa extensão é reconhecida
+pela Cortadora a Laser, que interpreta o desenho de forma vetorial e posiciona a
+ponta do laser na área de corte para realizar o trabalho.
+
+A precisão do corte a laser é muito grande, permitindo que o acabamento dos
+protótipos construidos seja muito bom, com pouca rebarba e com um design bonito
+e elegante. O vÍdeo abaixo mostra um processo de corte a laser sobre uma placa
+de MDF, pode-se observar a precisão do corte e a qualidade do acabamento sobre
+o material.
+Indicação de vÍdeo: https://www.youtube.com/watch?v=yFsqGPEo50A
+A cortadora a laser é um dos equipamentos mais populares em um ambiente de
+prototipagem, pois permite a construção de estruturas finas e leves, com alto nivel
+de detalhamento e com muitas aplicações.
+A Figura a seguir mostra um Drone construido com peças criadas em Impressora
+3D e em Cortadora a Laser.
+~K "»="======±µ6_ , ¿j;
+" m., -~
+4
+m " g : "m =======¶
+::'""'"""'"'Ys^f
+~"
+
+6 oRadoras de Vinil - da comunicação visual aos projetos de
+tecnologia
+O último dos equipamentos de prototipagem abordados em nossa disciplina é a
+cortadora de vinil. Visualmente, ela é muito parecida com uma impressora comum
+ou uma plotter, mas possui diferenças importantes nas utilizações.
+A cortadora de vinil é basicamente igual a uma impressora caseira de papel, que ao invés de
+reservatórios de tinta, possui em sua cabeça de impressão uma fina lâmina de aço. Ela
+permite cortar materiais como vinil, papéis, filmes do tipo Transfers, certos tecidos e adesivos
+de cobre usados na criação de circuitos impressos. Máquina relativamente fácil de comandar,
+é majoritariamente usada para customização de peças, mas igualmente usada para
+impressão de pequenos circuitos simples. (NEVES, 2013, p. 28)
+Dessas possibilidades, podemos destacar a utilização de materiais adesivos para o
+uso em serviços de comunicação visual, pois os resultados alcançados com este
+tipo de cortadora são muito interessantes e atendem aos mais exigentes clientes.
+A Figura 21 mostra uma cortadora de vinil e um de seus trabalhos de corte usados
+em comunicação visual.
+
+Em projetos de prototipagem, a cortadora de vinil pode ser usada para criar a
+identidade visual dos robôs, drones e foguetes, além de poder cortar papéis
+metalizados para a construção de circuitos eletrônicos e criar novas aplicações
+para a utilização do Makey Makey.
+
+Prototipagem é uma arte dos tempos atuais. Exige criatividade, atenção e
+conhecimento técnico e de novas tecnologias. Criar novos modelos nos quais eles
+não existem e melhorar os modelos existentes.
+Prototipar bem reduz a necessidade de retrabalho, bem como os custos de
+produção e a quantidade de itens produzidos errados. É uma das mais importantes
+ferramentas de desenvolvimento de produtos da atualidade.
+Sua importância está presente em diversos campos comerciais e industriais, como
+construção civil, eletrônica, indústria automotiva, marítima, aeronáutica e
+aeroespacial. Também está presente na indústria de games.
+A prototipagem torna o processo de criação mais ativo e divertido, fazendo com
+que a experiência de desenvolvimento de novos produtos seja prazerosa e
+interessante.
+Sejam criativos, inovadores e utilizem o seu potencial para desenvolver novas
+soluções tecnológicas, novos produtos e serviços; que possam prototipar, tentar
+errar e acertar, mas que sempre procurem ser os melhores profissionais em suas
+áreas de atuação.
+
+1. CONCEITOS DE PROTOTIPAÇÃO
+O mundo do século XXI apresenta diferenças fundamentais em relação a todos os
+vinte séculos anteriores. Nosso ritmo de evolução tecnológica tornou viável o
+desenvolvimento quase imediato de soluções que atendam às mais diferentes
+necessidades da sociedade moderna. Uma das evoluções mais perceptíveis diz
+respeito à possibilidade de desenvolvermos, cada vez mais rápido e com maior
+qualidade, protótipos de alta tecnologia para os mais diferentes produtos, sistemas,
+serviços e softwares.
+Nos últimos anos, foram desenvolvidas tecnologias de baixo custo para a
+prototipagem, especialmente as que envolvem tecnologias 3D, como impressoras
+3D, fresadoras 3D de precisão e cortadoras laser. Além destas tecnologias 3D,
+também temos as tecnologias 2D, que agregam muito valor a diversos tipos de
+projetos. Podemos citar aqui as cortadoras de vinil, que podem cortar diversos tipos
+de materiais, como etiquetas adesivas, MDF, papel, folhas metalizadas, entre
+outros.
+Com essas características, esses tipos de equipamentos podem ter aplicações nas
+mais diversas áreas: construção civil, eletrônica, engenharia, jogos digitais,
+comunicação visual e desenvolvimento de sistemas, por exemplo.
+Essa realidade vem de uma exigência cada vez maior do mercado, que oferece
+prazos apertados, solicita protótipos de baixo custo e alto valor agregado na
+solução final.
+Segundo Pressman (2005), foi criado um modelo evolucionário de prototipação,
+que pode ser definido em cinco fases, conforme mostra a Figura 1:
+COMUNICAÇÃO	MODELAGEM
+PLANO RÁPIDO	RÁPIDA	CONSTRUÇÃO	ENTREGA E
+Levantamento	DO PROTÓTIPO	FEEDBACK
+de requisitos	Protótipo
+Figura 1 - Modelo evolucionário de prototipação
+Fonte: Adaptado de Pressman (2005).
+
+Esse modelo simplifica o desenvolvimento de soluções, ele tem vantagens e
+desvantagens em relação a um modelo mais tradicional de desenvolvimento.
+Como vantagens, podemos citar que o cliente ou usuário final da solução pode ter
+uma percepção imediata do que será criado, o que fornece um conforto e uma
+confiança de que aquilo que está sendo desenvolvido é exatamente o que foi
+solicitado. Outra vantagem é a possibilidade do desenvolvedor poder construir o
+protótipo imediatamente, além de fazer alterações e correções de trajetória com um
+minimo de esforço e custos adicionais.
+E como desvantagem, citamos o fato de que o protótipo pode sofrer diversas
+alterações até sua finalização, o que pode descaracterizar a ideia original e fugir do
+escopo proposto para o desenvolvimento.
+Um bom exemplo é o desenvolvimento de moldes para a indústria.
+Tradicionalmente, o desenvolvimento de moldes sempre foi uma tarefa
+especializada, cara, lenta e realizada por poucas empresas no mercado. Muitas
+vezes, o custo do desenvolvimento de um molde equivaleu ao custo de milhares de
+peças fabricadas por aquele molde, o que sempre encareceu a operação da
+indústria. Um exemplo deste tipo tradicional de desenvolvimento de moldes pode
+servisto na Figura 2.
+- m "A
+¢
+" . " ——mA
+~L
+" '""	r" cN~
+. -	"	gzs'.gig !:2:,,
+I
+m~Wmr	" - · b " " " "
+h. u . " _7_ _ _ _
+, -
+— " "
+b
+n)""-47 "-::-I')LÊ4
+a _ -!""i":-b' 'Z"? 'j¥'
+,, ' I , Esq q— ^ Aaµw~= "'
+" ' .,áá— m 'ht'"m#È! '!
+
+Atu lmente, com o uso de equipamentos do tipo CNC - Comando Numérico
+Computadorizado, como são os casos de impressoras 3D e de fresadoras 3D, o
+desenvolvimento de moldes passou a ser executado com uma fração do tempo e
+do custo tradicionais, o que está provocando uma verdadeira revolução nesse
+mercado.
+A indústria de desenvolvimento de moldes sempre exigiu instalações grandes e
+cheias de máquinas pesadas. Porém, com o desenvolvimento das tecnologias 3D,
+hoje, se pode ter uma empresa de prototipagem com poucos computadores e
+alguns equipamentos de pequeno porte, como as impressoras 3D.
+Toda a modelagem pode ser feita por um software de desenho em 3D e pode-se
+simular a construção do protótipo antes de sua execução, como mostra a figura 3,
+para conferir se ele atende a todos os requisitos e para evitar o retrabalho.
+)-\íiizq
+^nc·
+Figura 3 - Criação de um molde em impressora 3D
+Fonte: Google Images.
+
+Tendo em mente a importância de se desenvolver projetos de inovação e o espirito
+Maker entre seus alunos, desde o final de 2014, a FIAP abriu um espaço dedicado
+a estes tipos de projetos, chamado Maker Lab.
+O Maker Lab reúne, em um único espaço, tecnologias inovadoras que possibilitam
+o desenvolvimento de projetos de graduação, pós-graduação, cursos rápidos e os
+PBLs (Project Based Learning), que são os projetos desenvolvidos anualmente
+pelos alunos da graduação.
+
+Atu lmente, projetos como o Cybercup, o Aircup e o Spacecup utilizam esses
+espaços para a prototipagem de robôs, drones e foguetes, como pode ser visto na
+Figura 4:
+RQbô-Cy* m=
+Figura 4 - projetos de graduação - MakerLab
+
+Fonte: FIAP (2015).
+No ano de 2015, foi desenvolvido pela primeira vez o projeto do drone completo,
+pelos alunos do segundo ano de Engenharia de Computação, dando um salto de
+desenvolvimento para nossos alunos.
+Além dos projetos tradicionais, o Maker Lab também foi utilizado para o
+desenvolvimento de jogos de tabuleiro, pelos alunos do curso de Jogos Digitais, já
+pela sua turma de primeiro ano. Para esta tarefa, os alunos estão fazendo o uso de
+impressora 3D, fresadora e cortadora laser.
+A Figura 5 exemplifica um tabuleiro de jogos desenvolvido com ferramentas Maker,
+que pode servir de inspiração para nossos alunos de todos os cursos:
+0	0
+.
+.
+j
+0
+> '	b '
+0
+'
+t
+u
+, 0	6 V4 ·
+.
+"
+AÁ!áát:.:!Ei$: "-" - -'-
+—: ', "- I" t¢),j·-·" ·'á ' "l'-'
+w
+m
+' W
+' j('¿ 1	" "
+± u-^
+uj\
+W :m 4	' W
+~'	aí
+% " " , ' c
+¥,,", -n ?%\4:.:~
+8
+K"""i ~A
+\·cmm
+f "' "g .,q
+0
+mtji"- -
+nii\\\\¶
+E
+y G - · ã '	h
+h
+' b
+
+O t buleiro foi construido em cortadora a laser e os personagens impressos na
+impressora 3D. A qualidade e o realismo do resultado final explicam porque o uso
+deste tipo de tecnologia tem ganhado tanto espaço no mercado de prototipação.
+O Capitulo 2 apresenta a inspiração para o espaço Maker Lab da FIAP, bem como
+suas principais ferramentas tecnológicas e suas possibilidades de utilização.
+
+2. A CONSTRUÇÃO DE UM ESPAÇO DE INOVAÇÃO
+Em meados de 2012, o Instituto de Tecnologia de Massachussetts, conhecido
+como MIT, iniciou o desenvolvimento de um projeto de criação e construção de um
+modelo de laboratórios de fabricação de conceitos e prototipação. O MIT chamou
+esse projeto de FABLAB.
+'
+"
+"=!i—-F¥í!:.¿!m
+
+"
+' wq
+" /nyr8,",&op
+Figura 6 - Garagem FabLab, no centro de São Paulo.
+Fonte: Google Images.
+
+O projeto FABLAB tomou corpo e foi expandido para diversas instituições de
+ensino, primeiro nos Estados Unidos e depois em diversos países. Existem mais de
+200 FABLABS, em mais de 40 países. No Brasil, existem FABLABS em São Paulo,
+Brasília, Recife, Belo Horizonte, Florianópolis, Rio de Janeiro e Belém. Essa
+iniciativa está presente em Instituições de Ensino e em iniciativas privadas,
+compondo espaços de inovação e desenvolvimento de ideias, projetos, protótipos e
+conceitos de tecnologias disruptivas.
+Segundo Neves e Eychenne (2013), do FABLAB São Paulo, o objetivo deste tipo
+de laboratório é destinar aos empreendedores que querem passar mais
+rapidamente da fase do conceito ao protótipo; aos designers, aos artistas e aos
+estudantes que desejam experimentar e enriquecer seus conhecimentos práticos
+em eletrônica, em CAD/CAM1; e também aos makers e hackers do século XXI. Ele
+está inserido em uma rede mundial de quase duas centenas de laboratórios: dos
+Estados Unidos ao Afeganistão, da Noruega à Gana, da Costa Rica à Holanda.
+
+Um FABLAB agrupa um conjunto de máquinas por comando numérico de nivel
+profissional, porém de baixo custo, seguindo um padrão tipológico. São exemplos:
+uma máquina de corte a laser capaz de produzir estruturas 2D e 3D, uma máquina
+de corte de vinil que fabrica antenas e circuitos flexíveis, uma fresadora de alta
+resolução para fabricar circuitos impressos e moldes, uma outra maior para criar
+peças grandes. Há também componentes eletrônicos múltiplos, bem como
+ferramentas de programação associadas a microcontroladores abertos, de baixo
+custo e eficientes. Estes dispositivos são controlados por meio de um software
+comum de concepção e fabricação assistida por computador. Os outros sistemas
+mais avançados, tais como as impressoras 3D, podem igualmente equipar certos
+FABLABS.
+A FIAP iniciou a construção de seu Maker Lab em 2014, compondo-se de um
+espaço multidisciplinar e multicultural, destinado a alunos dos diversos cursos da
+instituição, para o desenvolvimento de Projetos de Graduação, chamados de PBLS
+(Aprendizagem Baseada em projetos), projetos de Iniciação Científica, como são
+os casos do projeto de controle de um braço cibernético com um leitor de ondas
+cerebrais e da transmissão de energia através de ondas sonoras, atualmente em
+andamento no Maker Lab, como projetos de Iniciação Cientifica para alguns de
+nossos alunos.
+A inspiração para a construção do Maker Lab da FIAP foi o projeto FABLAB, pois
+seu conceito está alinhado com o DNA da FIAP, de inovar e "pensar fora da caixa".
+O primeiro projeto de graduação, totalmente construido no Maker Lab pelos alunos
+da graduação, foi o minifoguete do Spacecup 2014, pelos alunos do segundo ano
+de Sistemas de Informação e pelos alunos do terceiro ano de Engenharia. Em
+2014, foram impressos ao todo 70 foguetes nas impressoras 3D, sendo 45 pelos
+alunos de Sistemas de Informação e 25 pelos alunos de Engenharia. Em 2015,
+muitos projetos estão sendo desenvolvidos no Maker Lab.
+Mas, o que temos no Maker Lab? Quais as Tecnologias que existem neste
+espaço? Que tipos de Projetos podem ser desenvolvidos?
+O Maker Lab, em alinhamento com os conceitos dos FABLABS, possui quatro
+equipamentos principais e outros equipamentos de suporte adicional.
+Os quatro equipamentos principais são:
+· Impressoras 3D.
+· Fresadora 3D de precisão, com quarto eixo de torno.
+· Cortadora a laser.
+· Cortadora de vinil.
+
+Além destes quatro equipamentos, existem outros equipamentos e tecnologias
+adicionais:
+· Óculos RIFT.
+· Placas Makey Makey.
+· Leitor de ondas cerebrais.
+A Figura 7 exemplifica a utilização dos óculos RIFT para explorar os recursos da
+Realidade Virtual.
+,-
+'
+, ~
+- ~
+|:méàN¿/á¥ ·-T—
+T=@!b: =
+~.
+L
+
+O uso deste tipo de tecnologia abre uma nova perspectiva no desenvolvimento de
+games e da experiência de Imersão em ambientes virtuais. Pode ainda ser usado
+em treinamento militar e policial, na indústria de filmes e na educação a distância,
+aumentando o grau de interação entre os usuários e o ambiente.
+Já o Makey Makey é uma tecnologia que possibilita a transformação de diversos
+materiais, como frutas, metais, massinhas de modelar; e outros materiais em itens
+do computador, como Mouse e Teclado, interagindo com jogos e outros programas
+computacionais.
+A Figura 8 mostra a placa básica do Makey Makey, o design das teclas das setas
+do computador, da barra de espaço e do click do mouse.
+
+

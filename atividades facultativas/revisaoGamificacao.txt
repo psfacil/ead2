@@ -1,0 +1,31 @@
+Revisão Respondida
+
+Ao se implementar um placar ou ranking de pontos em seu aplicativo, a mecânica de jogo incitada aqui é a de:
+
+Resp : Competição
+
+__________________________________________________________________________________
+
+
+O Estudo de Caso em questão utiliza medalhas como “Pergunta famosa” ou “Estudante”, caso seu usuário cumpra tarefas específicas. Este serviço é o:
+
+Resp:Stack Overflow
+
+__________________________________________________________________________________
+
+Ao comprar minha 10a. pizza na mesma pizzaria delivery, juntei 10 cupons e a próxima compra sairá de graça. A mecânica de jogo implementada aqui é a de:
+
+Resp:Recompensa
+
+__________________________________________________________________________________
+
+O Classcraft (www.classcraft.com) é uma excelente ferramenta de gamificação em sala de aula. Ambientado em um mundo medial, os alunos se tornam Guerreiros, Magos e Clérigos. O sistema permite que o professor lance um evento randômico no qual um aluno ou um grupo pode obter vantagens ou desvantagens. Esta mecânica de jogo é conhecida como:
+
+Resp:Aleatoriedade
+
+_________________________________________________________________________________
+O Estudo de Caso em questão provocou uma mudança comportamental importantes, incentivando seus usuários a fazer exercícios físicos. Este serviço é o:
+
+Resp: Nike Plus
+
+

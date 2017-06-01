@@ -1,0 +1,99 @@
+Quando analisando os programas de fidelidade, os elementos de jogo essenciais para seu funcionamento são:
+
+Escolha uma alternativa:
+
+Resp:
+Recompensas e moeda virtual.
+
+____________________________________________________________________________________________________________________________________
+O Multiplus, programa de fidelização da TAM e de outras empresas ligadas a programas de fidelidade, trabalha principalmente o conceito de:
+
+Escolha uma alternativa:
+
+resp:
+Recompensas offline.
+
+____________________________________________________________________________________________________________________________________
+O Classcraft (www.classcraft.com) é uma excelente ferramenta de gamificação em sala de aula. Ambientado em um mundo medieval, os alunos se tornam Guerreiros, Magos e Clérigos. Ao chegar atrasado em sala de aula, o aluno deve tomar um dano pelo seu comportamento ruim quando, de repente outro aluno, um dos Guerreiros, utiliza seu “poder” de Protect, evitando o dano do colega. A mecânica de jogo utilizada aqui é:
+
+Escolha uma alternativa:
+
+Resp:
+Cooperação.
+
+____________________________________________________________________________________________________________________________________
+
+Uma academia para idosos identificou que muitos de seus associados deixavam a academia após três meses de frequência. Tal fato ocorria porque os idosos não se sentiam engajados a irem para a academia com a frequência necessária para bons resultados, e acabam cancelando o plano no terceiro ou quarto mês. Após ouvirem falar de gamificação, e com o objetivo de reterem os frequentadores, a academia contratou uma consultoria que implementou um sistema mobile de controle de presença. A cada 6 meses de frequência média, o usuário ganharia uma viagem nacional. Mesmo assim, a taxa de evasão não diminuiu. Isso ocorreu provavelmente porque: 
+
+Escolha uma alternativa:
+resp:
+O comportamento-alvo e o comportamento esperado não foi identificado.
+
+FEEDBACK:
+Quando o case trata de um programa de gamificação para idosos, é esperado que os usuários sejam plenamente mapeados e se entenda bem qual a plataforma esperada para interação com a mecânica de gamificação. Neste caso, foi adotada a plataforma mobile, que pode não ter sido a mais adequada para o público-alvo.
+
+____________________________________________________________________________________________________________________________________
+“World Without Oil” (http://worldwithoutoil.org/) é um ARG (Alternate Reality Game) que por 32 semanas imaginava coletivamente um mundo em plena escassez de petróleo, um recurso tão fundamental para nossa vida. Os participantes estavam tão imersos ao jogo que existem relatos de que vários deles começaram a ir ao trabalho de bicicleta, já que seus carros estariam sem combustível neste mundo alternativo. O surpreendente é que, ao terminar o jogo, vários participantes mantiveram o costume do transporte alternativo. Podemos afirmar que:
+
+Escolha uma alternativa:
+resp:
+A gamificação pode genuinamente promover mudança de comportamento.
+____________________________________________________________________________________________________________________________________
+Dadas as seguintes afirmações ao respeito de jogadores:
+   I – Mulheres não gostam de jogar, sendo uma pequena minoria.
+   II – 1 para cada 40 jogadores tem mais do que 50 anos.
+   III – A maioria dos jogadores não tem qualquer intenção em parar de jogar.
+   IV – A idade média dos jogadores é de 35 anos e eles têm jogado em média há 12 anos.
+Assinale a alternativa correta.
+
+Escolha uma alternativa:
+resp:
+As afirmações III e IV estão corretas.
+
+____________________________________________________________________________________________________________________________________
+
+Em um jogo casual como o Farmville, recursos virtuais adquiridos ao longo do jogo podem não serem úteis para o jogador. Entretanto, o jogo permite que o jogador venda estes itens virtuais. A mecânica de jogo utilizada aqui é a de:
+
+Escolha uma alternativa:
+
+resp:
+Transações.
+FEEDBACK:
+A mecânica utilizada é a de transações e não cooperação ou aquisição de recursos. Jogos que utilizem as transações trocando itens por outros precisam de uma verdadeira economia virtual para funcionarem.
+
+____________________________________________________________________________________________________________________________________
+Com o uso de crowdsourcing, é possível engajar as pessoas de forma gamificada, tornando a realização de tarefas divertida. Um exemplo é o Kickstarter, plataforma de crowdsourcing, onde a ideia é que as pessoas deem dinheiro para produtos inovadores, digitais ou não. É estabelecida uma meta pelo produtor, que constrói a campanha. Para cada investimento que o usuário faz, há uma recompensa atrelada, física ou digital. Caso se atinja a meta, o produto sai do papel e vira algo real. Esses sites funcionam, principalmente por utiliza a mecânica de:
+
+Escolha uma alternativa:
+resp
+:Cooperação.
+
+____________________________________________________________________________________________________________________________________
+
+No primeiro semestre de 2014, a Nintendo lançou, em parceria com a Google, uma iniciativa chamada Pokémon Challenge. Basicamente, o desafio consistia em capturar Pokémons ao redor do mundo, utilizando a plataforma do Google Maps e o conceito de geolocalização. Aqui, temos claramente um exemplo de:
+
+Escolha uma alternativa:
+Jogo, uma vez que é uma atividade voluntária, sem necessariamente uma tarefa ou mudança de comportamento.
+
+FEEDBACK:
+A mecânica do Pokémon Challenge baseia-se em conceitos de gamificação. No entanto, a plataforma do Google Maps é utilizada para o game, sem uma ação predeterminada do usuário, como uma tarefa específica. O jogo tão pouco altera ou molda um comportamento. Além disso, o exemplo é uma tarefa totalmente voluntária.
+
+____________________________________________________________________________________________________________________________________
+
+A Google utiliza uma mecânia interessante de controle de custos de viagens. Quando um dos funcionários precisa viajar a trabalho, ele é responsável pelo controle de custos dentro do orçamento disponível para a viagem. Se gastar menos que o disponível, ele pode:
+
+a) Manter os recursos para a próxima viagem, conseguindo upgrades de viagem, como um vôo primeira classe.   
+b) Doar o restante para a caridade. 
+c) Recuperar um percentual menor do resíduo em dinheiro.            
+A respeito dessa estratégia:
+I – Trata-se de uma mecânica de engajamento, sem necessariamente se tratar de gamificação.
+II – Não pode ser considerado gamificação exatamente porque não utiliza tecnologia, e a tecnologia é a essência de qualquer gamificação.
+III – Utiliza conceitos de gamificação, apesar de possuir uma mecânica bastante simples.
+IV – É gamificação, pois leva à mudança comportal dos funcionários da Google.
+Assinale a alternativa correta.
+
+Escolha uma alternativa:
+resp:As afirmações III e IV estão corretas.
+
+
+____________________________________________________________________________________________________________________________________

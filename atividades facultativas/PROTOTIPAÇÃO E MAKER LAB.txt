@@ -1,0 +1,55 @@
+Uma das características mais interessantes da prototipagem e da inovação é a possibilidade de “pensar fora da caixa” e ser criativo. Neste sentido, utilizar materiais diferentes em soluções inovadoras é uma das grandes sacadas dos desenvolvedores de soluções.
+Um dos equipamentos de inovação que fazem o uso de materiais diversos para produzir soluções interessantes é o Makey Makey. Ele traz para fora do computador algumas funções interessantes, como o mouse e o teclado, para reproduzir sons e interagir com cenários dinâmicos.
+Com base nestas informações, assinale a alternativa que apresenta um material que NÃO pode ser utilizado com o Makey Makey:
+
+Resp:Tubo de PVC.
+
+Feedback:
+O tubo de PVC é feito de um material não condutor de eletricidade. Desta forma, não é possível enviar sinais elétricos para a placa do Makey Makey a partir dele, o que impede sua utilização.
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+A impressão 3D é um processo que possui diversas etapas. Uma delas é a impressão de uma base, antes do início da deposição das camadas de material que compõem a peça a ser impressa. Assinale a alternativa que corresponde ao motivo pelo qual a base é impressa antes da impressão da peça.
+resp: A superfície de impressão é lisa e cheia de furinhos. A impressão da base tem por objetivo fornecer uma sustentação para a peça a ser impressa, garantindo a rigidez necessária para todo o processo de impressão.
+
+FEEDBACK:
+A superfície de impressão não tem condições de sustentar a impressão sem a criação de uma base. Como a superfície é aquecida, a base ajuda na fixação da peça e na manutenção do objeto a ser impresso no local correto. A base é criada automaticamente pelo software da impressora 3D, já considerando o tamanho e o peso da peça, para que a base seja adequada ao que será impresso.
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+As cortadoras a laser são equipamentos muito versáteis no ambiente de prototipagem. Em relação às cortadoras a laser, analise as afirmações abaixo:
+I - Elas permitem o corte preciso de diversos tipos de materiais e a construção de diversos tipos de estruturas com as peças cortadas por elas.
+II - As cortadoras a laser possibilitam trabalhar com os mais diversos materiais, como MDF, Plástico, Acrílico, Resinas Especiais, PVC.
+III – As cortadoras a laser não podem ser usadas para cortar papel e tecido, pois isso pode provocar chamas.
+De acordo com as afirmações acima, estão corretas somente as afirmações:
+
+resp:
+I e II.
+
+Nos projetos de inovação, especialmente na prototipagem rápida, é comum o uso de equipamentos que utilizam a tecnologia CNC. Esta tecnologia está presente em impressoras 3D, Fresadoras, Cortadoras, Estampadoras, Prensas e Tornos, entre outros equipamentos.
+Assinale a alternativa que corresponde ao correto significado de CNC:
+
+Escolha uma alternativa:
+
+Resp:Comando Numérico Computadorizado.
+FEEDBACK:
+O Comando Numérico Computadorizado é a tecnologia mais usada por equipamentos de torno, fresa, dobra e conformação automática, além de ser a base de tecnologia para os equipamentos de prototipagem 2D e 3D.
+
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Historicamente, o desenvolvimento de soluções comerciais e industriais seguiu um modelo tradicional, no qual a elaboração e a criação de produtos tinha um ciclo mais longo e de alto custo. A indústria tradicional de Moldes e Protótipos sempre seguiu um processo em que o uso de grandes instalações industriais era necessário para se criar uma peça, um produto ou equipamento. Com o surgimento das ferramentas de protipagem rápida, esse ciclo está mudando rapidamente.
+Analise as afirmações abaixo:
+I – A prototipagem rápida utiliza tecnologias 2D e 3D, como impressão, corte e fresagem de baixo custo para a criação de moldes e protótipos.
+II – Existem modelos de impressoras e fresadoras 3D de todo tipo de tamanho, permitindo a prototipagem de grandes peças e produtos, substituindo totalmente a prototipagem tradicional.
+III – A prototipagem rápida pode ser aplicada a diversas áreas, como eletrônica, construção civil, engenharia de materiais e comunicação visual.
+De acordo com as afirmações acima, estão corretas somente as afirmações:
+
+Escolha uma alternativa:
+
+Resp:I, somente.
+FEEDBACK:
+A afirmação II está errada, pois os equipamentos de prototipagem rápida são usados para a criação de peças e moldes de tamanhos reduzidos. Para a prototipagem de peças e moldes de tamanhos grandes, o processo tradicional ainda é bastante utilizado.
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
